@@ -1,0 +1,10 @@
+name: mp-project-jupyter
+channels:
+  - conda-forge
+dependencies:
+  - ipyvolume
+  - ipywidgets
+  - jupyterlab
+  - jupyter-resource-usage
+  - numpy
+  - xeus-cling
