@@ -8,3 +8,5 @@ We covered:
 * Non-Python kernels
 * Frontend extensions
 * The rich display system
+
+Run this in mybinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dokempf/jupyter-intro-beyond-the-basics/main?labpath=demo.ipynb)
